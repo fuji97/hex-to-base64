@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <AssemblyName>ConsoleProgram</AssemblyName>
+        <RootNamespace>ConsoleProgram</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\HexToBase64\HexToBase64.csproj" />
+    </ItemGroup>
+
+</Project>

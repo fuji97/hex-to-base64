@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexToBase64", "HexToBase64\HexToBase64.csproj", "{EFC0D448-BE10-44F1-A8D3-DBBD12BCE66D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleProgram", "ConsoleProgram\ConsoleProgram.csproj", "{7EAC018D-2F03-4491-A77B-B90B4AAD8193}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexToBase64.Test", "HexToBase64.Test\HexToBase64.Test.csproj", "{BB5FB8DF-F45E-46DF-A668-98B0359442B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFC0D448-BE10-44F1-A8D3-DBBD12BCE66D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFC0D448-BE10-44F1-A8D3-DBBD12BCE66D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFC0D448-BE10-44F1-A8D3-DBBD12BCE66D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFC0D448-BE10-44F1-A8D3-DBBD12BCE66D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EAC018D-2F03-4491-A77B-B90B4AAD8193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EAC018D-2F03-4491-A77B-B90B4AAD8193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EAC018D-2F03-4491-A77B-B90B4AAD8193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EAC018D-2F03-4491-A77B-B90B4AAD8193}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB5FB8DF-F45E-46DF-A668-98B0359442B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB5FB8DF-F45E-46DF-A668-98B0359442B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB5FB8DF-F45E-46DF-A668-98B0359442B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB5FB8DF-F45E-46DF-A668-98B0359442B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
